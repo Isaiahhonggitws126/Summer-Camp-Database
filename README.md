@@ -38,3 +38,8 @@ AssignedProgram)
 Instructor_Program ( **InstructorID(KEY), ProgramID(KEY)** , PayRate, SupervisorName,
 MaximumHours, MinimumHours)
 
+# Authors
+Isaiah Hong,
+Nicholas Yom,
+Artem Zinkin,
+Tofajjal Mirza
