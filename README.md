@@ -18,7 +18,7 @@ number of hours required to work, and their supervisor. This is critical to prop
 payroll for each and every one of our instructors.
 
 # Entity Relationship Diagram
-![](capture/CIS 3400_ Project #1 E-R.jpeg)
+![](capture/ER.jpeg)
 
 # Relational Model Breakdown:
 Student ( **StudentID(KEY)** , FirstName, LastName, Grade, Gender, PhoneNumber, ParentName,
